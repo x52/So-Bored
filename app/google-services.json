@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379996458215",
+    "firebase_url": "https://so-bored.firebaseio.com",
+    "project_id": "so-bored",
+    "storage_bucket": "so-bored.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379996458215:android:43e25d30fde10880",
+        "android_client_info": {
+          "package_name": "com.project.rogue.sobored"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379996458215-ulsa5gdu9qptm1vc7t4aseufi8tvfq39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.rogue.sobored",
+            "certificate_hash": "b0735edc9dd11faf3df2ba1f6c6fe0ab7a3ce972"
+          }
+        },
+        {
+          "client_id": "379996458215-kat2eec45l4dgpsopvomhtgdtkfbsea8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSo2zHLeVq8uWYtKawMM-h6fJibVrveXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379996458215-kat2eec45l4dgpsopvomhtgdtkfbsea8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
